@@ -8,5 +8,6 @@ else
 fi
 
 sudo cp jankun /bin/jankun
+sudo chmod +x /bin/jankun
 
 echo "Jankin installed (you might have to restart your terminal)"
