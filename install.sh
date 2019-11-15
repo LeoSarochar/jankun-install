@@ -5,11 +5,11 @@ if [[ $EUID -ne 0 ]]; then
     exit 1
 else
     echo "Installing Jankun..."
-fi 
+fi
 
 sudo cp jankun /bin/jankun
-sudo cp updater /bin/jankun-updater
 sudo chmod +x /bin/jankun
+sudo cp updater /bin/jankun-updater
 sudo chmod +x /bin/jankun-updater
 
 echo "Jankin installed (you might have to restart your terminal)"
