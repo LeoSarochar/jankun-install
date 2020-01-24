@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ $EUID -ne 0 ]]; then
-    echo "You must run this with superuser priviliges.  Try \"sudo ./install.sh\"" 2>&1
+    echo "You must run this with superuser priviliges.  Try \"sudo ./install\"" 2>&1
     exit 1
 else
     echo "Installing Jankun..."
@@ -12,4 +12,4 @@ sudo chmod +x /usr/local/bin/jankun
 sudo cp updater /usr/local/bin/jankun-updater
 sudo chmod +x /usr/local/bin/jankun-updater
 
-echo "Jankin installed (you might have to restart your terminal)"
+echo "Jankun installed ! cd to your project and type jankun to start :)"
