@@ -7,9 +7,14 @@ else
     echo "Installing Jankun..."
 fi
 
-sudo cp jankun /usr/local/bin/jankun
+if [[ "$OSTYPE" == "linux-gnu" ]]; then
+    sudo cp jankun /usr/local/bin/jankun
+    sudo cp updater /usr/local/bin/jankun-updater
+elif [[ "$OSTYPE" == "darwin"* ]]; then
+    sudo cp jankun_mac /usr/local/bin/jankun
+    sudo cp updater_mac /usr/local/bin/jankun-updater
+fi
 sudo chmod +x /usr/local/bin/jankun
-sudo cp updater /usr/local/bin/jankun-updater
 sudo chmod +x /usr/local/bin/jankun-updater
 
 echo "Jankun installed ! cd to your project and type jankun to start :)"
