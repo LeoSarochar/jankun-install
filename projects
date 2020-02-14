@@ -1,21 +1,14 @@
-CPool_workshoplib_2019
-CPool_evalexpr_2019
-CPool_bistro-matic_2019
-CPE_BSQ_2019
-PSU_my_printf_2019
-101pong_2019
-102architect_2019
-MUL_my_hunter_2019
-CPE_pushswap_2019
-PSU_my_sokoban_2019
-103cipher_2019
-MUL_my_runner_2019
-MUL_my_radar_2019
-CPE_getnextline_2019
-104intersection_2019
-PSU_my_ls_2019
-105torus_2019
-CPE_matchstick_2019
-PSU_minishell1_2019
-PSU_navy_2019
-B2EMPLOI
+{
+  "PROJECTS": {
+    "B-CPE-110": {
+      "BSQ": {
+        "repo_name": "CPE_BSQ_year",
+        "enable": true
+      },
+      "pushswap": {
+        "repo_name": "CPE_pushswap_year",
+        "enable": true
+      }
+    }
+  }
+}
