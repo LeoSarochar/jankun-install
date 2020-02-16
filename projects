@@ -59,6 +59,28 @@
         "repo_name": "PSU_minishell1_year",
         "enable": true
       }
+    },
+    "B-MAT-100": {
+      "101pong": {
+        "repo_name": "101pong_year",
+        "enable": true
+      },
+      "102architect": {
+        "repo_name": "102architect_year",
+        "enable": true
+      },
+      "103cipher": {
+        "repo_name": "103cipher_year",
+        "enable": true
+      },
+      "104intersection": {
+        "repo_name": "104intersection_year",
+        "enable": true
+      },
+      "105torus": {
+        "repo_name": "105torus_year",
+        "enable": true
+      }
     }
   }
 }
