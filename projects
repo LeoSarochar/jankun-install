@@ -1,7 +1,7 @@
 {
   "PROJECTS": {
     "B-CPE-100": {
-      "Lib Workshop": {
+      "LibWorkshop": {
         "repo_name": "CPool_workshoplib_year",
         "enable": true
       }
