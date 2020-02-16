@@ -1,12 +1,62 @@
 {
   "PROJECTS": {
+    "B-CPE-100": {
+      "Lib Workshop": {
+        "repo_name": "CPool_workshoplib_year",
+        "enable": true
+      }
+    },
+    "B-CPE-101": {
+      "InfinAdd": {
+        "repo_name": "CPool_infinadd_year",
+        "enable": true
+      },
+      "EvalExpr": {
+        "repo_name": "CPool_evalexpr_year",
+        "enable": true
+      },
+      "Bistro-matic": {
+        "repo_name": "CPool_bistro-matic_year",
+        "enable": true
+      }
+    },
     "B-CPE-110": {
       "BSQ": {
         "repo_name": "CPE_BSQ_year",
         "enable": true
       },
-      "pushswap": {
+      "Pushswap": {
         "repo_name": "CPE_pushswap_year",
+        "enable": true
+      }
+    },
+    "B-CPE-111": {
+      "GetNextLine": {
+        "repo_name": "CPE_getnextline_year",
+        "enable": true
+      },
+      "Matchstick": {
+        "repo_name": "CPE_matchstick_year",
+        "enable": true
+      }
+    },
+    "B-PSU-100": {
+      "my_printf": {
+        "repo_name": "PSU_my_printf_year",
+        "enable": true
+      },
+      "my_sokoban": {
+        "repo_name": "PSU_my_sokoban_year",
+        "enable": true
+      }
+    },
+    "B-PSU-101": {
+      "my_ls": {
+        "repo_name": "PSU_my_ls_year",
+        "enable": true
+      },
+      "minishell 1": {
+        "repo_name": "PSU_minishell1_year",
         "enable": true
       }
     }
