@@ -82,5 +82,15 @@
         "enable": true
       }
     }
+  },
+  "B-MUL-100": {
+    "MyHunter": {
+      "repo_name": "MUL_my_hunter_year",
+      "enable": true
+    },
+    "MyScreenSaver": {
+      "repo_name": "MUL_my_screensaver_year",
+      "enable": true
+    }
   }
 }
