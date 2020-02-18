@@ -100,6 +100,12 @@
             "enable": true
         }
     },
+    "B-FRE-200": {
+      "B2EMPLOI": {
+        "repo_name": "B2EMPLOI",
+        "enable": true
+      }
+    },
     "B-PSU-200": {
         "Navy": {
             "repo_name": "PSU_navy_year",
