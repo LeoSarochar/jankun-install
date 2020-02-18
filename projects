@@ -91,6 +91,20 @@
     "MyScreenSaver": {
       "repo_name": "MUL_my_screensaver_year",
       "enable": true
+    },
+    "MyRunner": {
+      "repo_name": "MUL_my_runner_year",
+      "enable": true
+    },
+    "MyRadar": {
+      "repo_name": "MUL_my_radar_year",
+      "enable": true
+    }
+  },
+  "B-PSU-200": {
+    "Navy": {
+      "repo_name": "PSU_navy_year",
+      "enable": true
     }
   }
 }
