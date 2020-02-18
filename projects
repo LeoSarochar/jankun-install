@@ -55,7 +55,7 @@
         "repo_name": "PSU_my_ls_year",
         "enable": true
       },
-      "minishell 1": {
+      "minishell1": {
         "repo_name": "PSU_minishell1_year",
         "enable": true
       }
