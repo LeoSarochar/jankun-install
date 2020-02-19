@@ -111,6 +111,16 @@
             "repo_name": "PSU_navy_year",
             "enable": true
         }
+    },
+    "B-MUL-200": {
+      "MyDefender": {
+        "repo_name": "MUL_my_defender_year",
+        "enable": true
+      },
+      "MyWorld": {
+        "repo_name": "MUL_my_world_year",
+        "enable": true
+      }
     }
   }
 }
