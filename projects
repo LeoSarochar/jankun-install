@@ -104,6 +104,10 @@
       "B2EMPLOI": {
         "repo_name": "B2EMPLOI",
         "enable": true
+      },
+      "B2PRECISER": {
+        "repo_name": "B2PRECISER",
+        "enable": true
       }
     },
     "B-PSU-200": {
