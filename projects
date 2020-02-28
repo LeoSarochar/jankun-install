@@ -118,7 +118,7 @@
     },
     "B-MAT-200": {
       "107transfer": {
-        "repo_name": "107transfer_2019",
+        "repo_name": "107transfer_year",
         "enable": true
       }
     },
