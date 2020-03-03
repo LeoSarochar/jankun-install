@@ -116,6 +116,12 @@
             "enable": true
         }
     },
+    "B-CPE-200": {
+        "Dante" : {
+            "repo_name": "CPE_dante_2019",
+            "enable": true
+        }
+    },
     "B-MAT-200": {
       "107transfer": {
         "repo_name": "107transfer_year",
