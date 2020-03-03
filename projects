@@ -118,7 +118,7 @@
     },
     "B-CPE-200": {
         "Dante" : {
-            "repo_name": "CPE_dante_2019",
+            "repo_name": "CPE_dante_year",
             "enable": true
         }
     },
