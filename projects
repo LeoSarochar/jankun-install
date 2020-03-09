@@ -114,6 +114,10 @@
         "Navy": {
             "repo_name": "PSU_navy_year",
             "enable": true
+        },
+        "tetris": {
+            "repo_name": "PSU_tetris_year",
+            "enable": true
         }
     },
     "B-CPE-200": {
