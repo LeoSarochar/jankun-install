@@ -144,6 +144,10 @@
       "MyWorld": {
         "repo_name": "MUL_my_world_year",
         "enable": true
+      },
+      "MyRPG": {
+        "repo_name": "MUL_my_rpg_year",
+        "enable": true
       }
     }
   }
