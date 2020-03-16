@@ -108,6 +108,10 @@
       "B2PRECISER": {
         "repo_name": "B2PRECISER",
         "enable": true
+      },
+      "B2VENTE": {
+        "repo_name": "B2VENTE",
+        "enable": true
       }
     },
     "B-PSU-200": {
