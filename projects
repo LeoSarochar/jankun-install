@@ -149,6 +149,12 @@
         "repo_name": "MUL_my_rpg_year",
         "enable": true
       }
+    },
+    "B-PSU-210": {
+      "minishell2": {
+        "repo_name": "PSU_minishell2_year",
+        "enable": true
+      }
     }
   }
 }
