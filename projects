@@ -128,6 +128,10 @@
         "Dante" : {
             "repo_name": "CPE_dante_year",
             "enable": true
+        },
+        "Lemin" : {
+            "repo_name": "CPE_lemin_year",
+            "enable": true
         }
     },
     "B-MAT-200": {
