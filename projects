@@ -1,6 +1,10 @@
 {
   "PROJECTS": {
     "B-CPE-100": {
+      "CPoolDay03": {
+        "repo_name": "CPool_Day03_year",
+        "enable": true
+      },
       "LibWorkshop": {
         "repo_name": "CPool_workshoplib_year",
         "enable": true
