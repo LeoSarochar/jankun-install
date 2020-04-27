@@ -158,6 +158,10 @@
       "minishell2": {
         "repo_name": "PSU_minishell2_year",
         "enable": true
+      },
+      "42sh": {
+        "repo_name": "PSU_42sh_year",
+        "enable": true
       }
     }
   }
