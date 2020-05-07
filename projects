@@ -167,6 +167,12 @@
         "repo_name": "PSU_42sh_year",
         "enable": true
       }
+    },
+    "B-CPE-201": {
+      "Corewar": {
+        "repo_name": "CPE_corewar_year",
+        "enable": true
+      }
     }
   }
 }
